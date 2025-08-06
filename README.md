@@ -9,8 +9,8 @@ To create a Python-based CLI application that performs basic calculations based 
 ## 🛠️ Tools Used
 
 - Python (3.x)
-- VS Code / Any Text Editor
-- Terminal / Command Line
+- VS Code
+- Terminal
 
 
 ## 🔍 Features
